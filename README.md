@@ -27,7 +27,7 @@ Emulator or real device for testing
 Installation
 
 # Clone this repository
-git clone 
+git clone https://github.com/Amanjaiswal027/Fitness_App.git
 
 # Go inside the project folder
 cd workout_fitness
